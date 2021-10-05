@@ -118,7 +118,6 @@ shells_by_tier = [
         iron_rod,
         reinforced_iron_plate,
         screw,
-        wire,
         beacon,
     ],
 

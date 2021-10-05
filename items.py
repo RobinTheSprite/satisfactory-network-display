@@ -28,7 +28,6 @@ iron_plate = "iron plate"
 iron_rod = "iron rod"
 reinforced_iron_plate = "reinforced iron plate"
 screw = "screw"
-wire = "wire"
 
 #Tier 1
 beacon = "beacon"
