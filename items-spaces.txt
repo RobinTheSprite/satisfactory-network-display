@@ -1,0 +1,74 @@
+bauxite
+caterium ore
+coal
+copper ore
+crude oil
+iron ore
+limestone
+nitrogen gas
+raw quartz
+sam ore
+sulfur
+uranium
+water
+cable
+concrete
+copper ingot
+iron ingot
+iron plate
+iron rod
+reinforced iron plate
+screw
+wire
+copper sheet
+modular frame
+rotor
+smart plating
+steel beam
+steel ingot
+steel pipe
+versatile framework
+automated wiring
+encased industrial beam
+heavy modular frame
+motor
+stator
+adaptive control unit
+circuit board
+computer
+empty canister
+fuel
+heavy oil residue
+modular engine
+petroleum coke
+plastic
+polymer resin
+rubber
+alumina solution
+aluminum casing
+alclad aluminum sheet
+aluminum ingot
+assembly director system
+battery
+radio control unit
+sulfuric acid
+cooling system
+copper powder
+electromagnetic control rod
+empty fluid tank
+encased plutonium cell
+encased uranium cell
+fused modular frame
+heat sink
+magnetic field generator
+nitric acid
+non-fissile uranium
+nuclear pasta
+plutonium fuel rod
+plutonium pellet
+plutonium waste
+pressure conversion cube
+thermal propulsion rocket
+turbo motor
+uranium fuel rod
+uranium waste
