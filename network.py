@@ -227,7 +227,8 @@ V = len(G.nodes)
 E = len(G.edges)
 print(f"Network has {V} vertices and {E} edges")
 
-pos = nx.drawing.nx_pydot.graphviz_layout(G, prog='dot')
+# pos = nx.drawing.nx_pydot.graphviz_layout(G, prog='dot')
+pos = nx.shell_layout(G, nlist=shells_by_tier)
 
 figure_scale = 50
 
